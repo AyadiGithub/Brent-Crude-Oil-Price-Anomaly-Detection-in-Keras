@@ -32,7 +32,7 @@ Source of Dataset: Yahoo Finance
 
 ## The required libraries:
 - Numpy
-- Tensorflow
+- Tensorflow 2.0+
 - Keras
 - Pandas
 - Seaborn
